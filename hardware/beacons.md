@@ -23,6 +23,7 @@ nav_order: 2
 | MiFlora plant sensor | Yes *     |                                             | Location only
 | Fi Smart Dog Collar  | Yes *     | [Fi](https://tryfi.com)                     | Smart Base needs to be powered off or Collars will not beacon
 | Whoop strap 3.0      | Yes *     |                                             | id format: name:whoop-xxxxxxx
+| Triangle Smart Tag   | Yes       | https://www.aliexpress.com/i/2251832642298470.html?gatewayAdapt=4itemAdapt  |  Shows up as itag in the logs
 
 `* = with caveats`
 
